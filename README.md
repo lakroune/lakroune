@@ -18,11 +18,14 @@
 ---
 
 ## 📊 GitHub Stats:
-![lakroune's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=lakroune&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lakroune&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakroune&show_icons=true&theme=radical&count_private=true" alt="lakroune stats" />
+</p>
 
----
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakroune&layout=compact&theme=radical" alt="lakroune languages" />
+</p>
 
 ## 🌐 Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/lakroune)
