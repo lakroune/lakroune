@@ -18,16 +18,16 @@
 ---
 
 ## 📊 GitHub Stats:
-![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakroune&show_icons=true&theme=radical)
+![lakroune's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakroune&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakroune&layout=compact&theme=radical)
 
 ---
 
-## ✨ Fun Facts About Me
+<!-- ## ✨ Fun Facts About Me
 - 🎮 I like exploring games.  
 - 📚 I enjoy teaching others what I’ve learned.  
-- 🌍 I believe in sharing peace and positivity online.  
+- 🌍 I believe in sharing peace and positivity online.   -->
 
 ---
 
