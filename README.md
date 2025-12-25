@@ -18,16 +18,9 @@
 ---
 
 ## 📊 GitHub Stats:
-![lakroune's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakroune&show_icons=true&theme=radical)
+![lakroune's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=lakroune&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakroune&layout=compact&theme=radical)
-
----
-
-<!-- ## ✨ Fun Facts About Me
-- 🎮 I like exploring games.  
-- 📚 I enjoy teaching others what I’ve learned.  
-- 🌍 I believe in sharing peace and positivity online.   -->
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lakroune&layout=compact&theme=radical)
 
 ---
 
@@ -36,4 +29,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakroune-ismail/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakroune00@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakroune)
-
